@@ -15,15 +15,15 @@ To install the Guess the Number game, follow these steps:
 Linux and macOS:
 
 bash
-git clone https://github.com/shuwnk/guess-the-number-ocaml.git
+git clone https://github.com/shuwnk/guess_the_number-ocaml.git
 cd guess-the-number-ocaml
 ocamlc -o guess guess.ml
 Windows:
 
 bash
 Copy code
-git clone https://github.com/shuwnk/guess-the-number-ocaml.git
-cd guess-the-number-ocaml
+git clone https://github.com/shuwnk/guess_the_number-ocaml.git
+cd guess_the_number-ocaml
 ocamlc -o guess.exe guess.ml
 Using Guess the Number
 To play the game, follow these steps:
