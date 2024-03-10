@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/guess_the_number/META"
+  "_build/install/default/lib/guess_the_number/dune-package"
+  "_build/install/default/lib/guess_the_number/opam"
+]
+bin: [
+  "_build/install/default/bin/guess_the_number"
+]
